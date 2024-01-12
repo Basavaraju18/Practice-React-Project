@@ -1,0 +1,39 @@
+ [{
+      
+   "Name":"arun",
+   "Age":"22",
+   "City":"Mandy"
+
+},
+{
+   "Name":"Kiran",
+   "Age":"22",
+   "City":"Davanagere"
+
+
+},
+
+{
+   "Name":"Charan",
+   "Age":"22",
+   "City":"Malavalli"
+
+   
+   },
+
+   {
+      "Name":"Deepak",
+      "Age":"22",
+      "City":"Bengaluru"
+   
+      
+},
+
+{
+   "Name":"Taraun",
+   "Age":"23",
+   "City":"Bengaluru"
+
+   
+}
+]

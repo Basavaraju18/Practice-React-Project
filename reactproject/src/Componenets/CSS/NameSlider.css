@@ -1,0 +1,58 @@
+/* styles.css (or your preferred CSS file)
+
+.NameSlider {
+   text-align: center;
+   margin: 20px;
+   padding: 20px;
+   border: 1px solid #ccc;
+   border-radius: 5px;
+   box-shadow: 0px 0px 10px 0px rgba(222, 5, 5, 0.1);
+ }
+ 
+ .NameSlider button {
+   margin: 10px;
+   padding: 10px 20px;
+   font-size: 16px;
+   cursor: pointer;
+ }
+ 
+ .NameSlider h1 {
+   font-size: 24px;
+   margin: 10px 0;
+ }
+  */
+
+
+  /* NameSlider.css */
+
+.imageSlider {
+   text-align: center;
+   margin: 20px;
+   padding: 20px;
+   border: 1px solid #ccc;
+   border-radius: 5px;
+   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+   background-color: #f9f1f1;
+ }
+ 
+ .imageSlider button {
+   margin: 10px;
+   padding: 10px 20px;
+   font-size: 16px;
+   cursor: pointer;
+   background-color: #4c9baf;
+   color: white;
+   border: none;
+   border-radius: 5px;
+ }
+ 
+ .imageSlider button:hover {
+   background-color: #4caf50;
+ }
+ 
+ .imageSlider h1 {
+   font-size: 24px;
+   margin: 10px 0;
+   color: #333;
+ }
+ 

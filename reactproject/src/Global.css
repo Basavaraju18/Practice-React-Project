@@ -1,0 +1,288 @@
+/**
+section{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+table{
+border: 5px solid red;
+padding: 20px;
+background-color: whitesmoke;
+
+}
+
+th{
+padding: 20px;
+background-color: green;
+color: white;
+}
+td{
+   border: 2px solid yellow;
+
+}
+table{
+border: 5px solid red;
+padding: 20px;
+background-color: rgb(241, 239, 239);
+}
+th{
+   padding: 20px;
+   background-color: green;
+color: white;
+}
+td{
+border: 2px solid yellow;
+text-align: center;
+padding: 10px;
+background-color: yellow;
+}
+*/
+
+/*
+section{
+   display:flex;
+   flex-wrap: wrap;
+   background-color: aqua;
+   
+}
+
+.div1{
+   margin: 20px;
+   width:200px;
+   height: 300px;
+
+   background-color: chocolate;
+   text-align: 20px;
+
+   border: 2px solid red;
+}
+
+h1{
+   color: blue;
+}
+
+*/
+
+/** ==================================================
+
+.divImg img{
+
+   height: 300px;
+   width:  5
+   00px;
+
+}
+
+.icon{
+
+   height: 300px;
+   width:  300px;
+
+}
+
+*/
+
+/**  thiis is for multipe pages like Testyanthra */
+
+/* 
+
+
+
+
+.mainContainer {
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   border: 2px red;
+   
+}
+
+*/
+
+/* Global.css */
+
+/* ============= TESTYANTHRE CLONING 
+*/
+
+/* 
+
+
+.Service {
+   background-color: rgb(70, 105, 105);
+   height:430px;
+   width:1200px ;
+}
+
+.Contactus {
+   background-color: rgb(57, 68, 68);
+   height:430px;
+   width:1200px ;
+}
+
+.Service botton{
+ background-color: #007bff;
+ color: brown;
+}
+  */
+
+/**===============================================================
+ .navBar{
+   background-color: orangered;
+   height: 30px;
+  
+
+ }
+
+.navBar p{
+   display: flex;
+   margin-right: 20px;
+   font-size: 14px;
+   margin-left: 30px;
+   margin-top: 18px;
+ }
+
+
+ .section-2{
+display: flex;
+ }
+
+ .section-2{
+   margin-left: 250px;
+   margin-left: 50px;
+ }
+
+ .section-2 ul{
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+
+   gap: 70px;
+ }
+
+ .section-2 li{
+   list-style: none;
+ }
+
+ */
+
+ /** this is for using fetch tha api  */
+ 
+ 
+   /**
+
+ thead{
+   background-color: rgb(16, 202, 16);
+   height: 30px;
+   font-size: 25px;
+ }
+
+ img {
+   height: 70px;
+   width: 140px;
+   
+ }
+
+ tbody{
+   background-color: orange;
+   text-align: center;
+   font-style: inherit;
+ }
+
+
+ discription{
+   width: 80px;
+   background-color: darkcyan;
+ }
+
+ */
+
+
+
+/** =============================================
+
+
+
+
+
+/* Apply styles to the form container */
+
+/**
+div {
+  max-width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+
+ */
+
+ /** ==================image slider===================== */
+ 
+ .imageslider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  position: relative;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 5px;
+  margin: 20px 0;
+}
+h1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

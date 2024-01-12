@@ -1,0 +1,54 @@
+/* CSS for FormValidation component */
+
+.form {
+   max-width: 300px;
+   margin: 0 auto;
+   padding: 20px;
+   background-color: #fff;
+   border-radius: 8px;
+   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+ }
+ 
+ .input-div {
+   margin-bottom: 20px;
+ }
+ 
+ input[type="text"],
+ input[type="tel"],
+ input[type="email"],
+ input[type="password"] {
+   width: 100%;
+   padding: 10px;
+   font-size: 16px;
+   border: 1px solid #ccc;
+   border-radius: 4px;
+   box-sizing: border-box;
+ }
+ 
+ small {
+   color: #ff0000;
+   font-size: 14px;
+   margin-top: 6px;
+   display: block;
+ }
+ 
+ button {
+   background-color: #4caf50;
+   color: white;
+   border: none;
+   padding: 10px 20px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   border-radius: 4px;
+   cursor: pointer;
+   transition: background-color 0.3s ease;
+ }
+ 
+ button:hover {
+   background-color:solid #45a049;
+ }
+ 
+ /* Additional styles can be added as needed */
+ 
